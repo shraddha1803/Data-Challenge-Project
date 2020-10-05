@@ -16,15 +16,15 @@ Research question: Will rent and vacancy control encourage or discourage stabili
 
 In recent years, California has been undergoing a housing crisis, fueled by a high demand for housing compared to a low supply. With high rents in many parts of California, such as the Bay Area, affordability of housing has remained an issue that has been discussed for quite a while. Proposition 21 essentially removes some of the disadvantages caused by the Costa-Hawkins Rental Housing Act, thereby allowing rent control to be applied to more properties than the current level.
 
-Our project aims to investigate how rent and vacancy control will affect the movement of renters' behaviour over time by creating an agent that uses common data about income and rent levels in California to predict and track what effect rent and vacancy control would have on people's incomes, such as moving out of their homes. 
+Our project aims to investigate how rent and vacancy control will affect the movement of renters' behaviour over time by creating an agent-based model that uses common data about income and rent levels in California to predict and track what effect rent and vacancy control would have on people's incomes, such as moving out of their homes. 
 
 
 
 ### Directory Manifest
 
 *  Folders:
-	* folder name - description of contents.
-* folder name - description of contents.
+	* DataChallenge2020 - This contains all code for the agent-based model.
+* Conclusions and Visualizations - Three Excel files that recorded output from our model. Three graphs made in Excel plotting the recorded output.
 
 * Files:
 	*  filename - description of contents and dependencies. What does     this file represent, and how does it fit in the workflow?
