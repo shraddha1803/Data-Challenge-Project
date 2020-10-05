@@ -3,7 +3,7 @@
 # README
 ### path(shorthand name of project)
 
-*This is the main directory for data and support files related to the PROJECT NAME.*
+*This is the main directory for data and support files related to the Data Bytes | Data Challenge Submission.*
 
 ### Team name: Data Bytes
 ### Proposition 21
