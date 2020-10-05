@@ -12,11 +12,11 @@
 
 
 ### Purpose/motivation
-Research question: Will vacancy control encourage or discourage stability in renters? 
+Research question: Will rent and vacancy control encourage or discourage stability in renters? 
 
 In recent years, California has been undergoing a housing crisis, fueled by a high demand for housing compared to a low supply. With high rents in many parts of California, such as the Bay Area, affordability of housing has remained an issue that has been discussed for quite a while. Proposition 21 essentially removes some of the disadvantages caused by the Costa-Hawkins Rental Housing Act, thereby allowing rent control to be applied to more properties than the current level.
 
-Our project aims to investigate how vacancy control will affect the movement of renters' behaviour over time by creating an agent that uses common data about income and rent levels in California to predict and track what effect vacancy control would have on people's incomes, such as moving out of their homes. 
+Our project aims to investigate how rent and vacancy control will affect the movement of renters' behaviour over time by creating an agent that uses common data about income and rent levels in California to predict and track what effect rent and vacancy control would have on people's incomes, such as moving out of their homes. 
 
 
 
