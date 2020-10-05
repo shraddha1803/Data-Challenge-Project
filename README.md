@@ -1,7 +1,7 @@
 # Data-Challenge-Project
 
 # README
-### path(shorthand name of project)
+### path(Rent and Vacancy Control Agent-Based Model)
 
 *This is the main directory for data and support files related to the Data Bytes | Data Challenge Submission.*
 
