@@ -27,7 +27,7 @@ Our project aims to investigate how rent and vacancy control will affect the mov
 * Conclusions and Visualizations - Three Excel files that recorded output from our model. Three graphs made in Excel plotting the recorded output.
 
 * Files:
-	*  filename - description of contents and dependencies. What does     this file represent, and how does it fit in the workflow?
+	*  DataChallenge2020/src/RentControlDataModel/AfterStep.java - description of contents and dependencies. What does     this file represent, and how does it fit in the workflow?
 *  filename - description of contents and dependencies.
 
 ### Personnel/Contributors
