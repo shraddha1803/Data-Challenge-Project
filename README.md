@@ -57,3 +57,6 @@ Our project aims to investigate how rent and vacancy control will affect the mov
 
 ### Project Repositories
 * Main Repository: https://github.com/shraddha1803/Data-Challenge-Project.git
+
+### Project Overview Video
+https://www.youtube.com/watch?v=vJr4DbiJiuY
